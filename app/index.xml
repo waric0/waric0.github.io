@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>waric0</title>
+    <title>Apps on waric0</title>
     
     
     
-    <link>https://waric0.github.io/</link>
-    <description>Recent content on waric0</description>
+    <link>https://waric0.github.io/app/</link>
+    <description>Recent content in Apps on waric0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Sep 2023 20:57:02 +0900</lastBuildDate>
     
-	<atom:link href="https://waric0.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://waric0.github.io/app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -31,27 +31,6 @@
           はじめに waric0(以下「当方」といいます。)は、「節約できる家計簿に関するプライバシーポリシー」(以下「本プライバシーポリシー」といいます。)を定め、これにより「節約できる家計簿」(以下「本サービス」といいます。)を提供します。
 Googleアナリティクス、Firebase アナリティクス 本サービスでは、利用者の本サービスの利用状況を把握するため、Googleアナリティクスを利用してアクセスログを収集しています。Googleアナリティクスは、cookie(クッキー)を使用し、個人を特定する情報を含むことなく、本サービスの利用状況を収集し、収集された情報はGoogle社のプライバシーポリシーに基づき管理されます。Googleアナリティクスの利用規約及びGoogle社のプライバシーポリシーについては、同社のサイトをご覧ください。当方は、Googleアナリティクスのサービスの利用による損害について責任を負わないものとします。
 プライバシーポリシーの変更、修正 本サイトは定期的に更新され、本プライバシーポリシーの変更を行うことができるものとします。
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://waric0.github.io/about/</link>
-      <pubDate>Tue, 15 Dec 2020 15:16:45 +0900</pubDate>
-      
-      <guid>https://waric0.github.io/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          自己紹介 waric0です。
- Twitter GitHub  
           
         
         </description>
