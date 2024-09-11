@@ -11,5 +11,9 @@
         "3E:36:41:33:FD:BC:7A:8B:53:2C:01:62:47:E4:F0:92:26:D8:31:BA:57:4E:19:93:9D:96:76:6B:75:A6:64:22"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target" : { "namespace": "web", "site": "https://waric0.github.io" }
   }
 ]
